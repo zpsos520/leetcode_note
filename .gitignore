@@ -1,0 +1,34 @@
+.gradle
+gradle/
+gradlew
+gradlew.bat
+.idea
+*.iml
+*/*.iml
+*/build/
+*/out/
+backList
+*/backList
+
+*/config/*.xml
+*/config/*.json
+
+soa-backup
+*/soa-backup
+*/src/main/java/rebel*.xml
+rebel*.xml
+thriftGenerator.sh
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+
+# sonar
+.sonar/
+sonar-project.properties
+
+*.tmp
+
+# log file
+*.log
+
+build
